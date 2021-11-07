@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I’m currently working on the Dashboard project and also I'm planning to revisit my older projects to clean up the code. 
+I’m currently working on the Dashboard project and also I'm planning to revisit my older projects. 
 
 
 Here are all the projects worth looking on:
@@ -12,6 +12,6 @@ Here are all the projects worth looking on:
 - [Svelte landing page](https://github.com/MatRising/landing-page-2) here is [link](https://landing-page-demo2.vercel.app/) to live demo
 - [Svelte simple landing page with AOS](https://github.com/MatRising/landing-page-3) here is [link](https://landing-page-demo3.vercel.app/) to live demo
 - [Blog with Next.js](https://github.com/MatRising/nextblogger) here is [link](https://nextblogger.vercel.app/) to live demo. This is simple blog with admin page connected to firebase.
-- [Simple e-commerce with Next.js](https://github.com/MatRising/nextshoper) here is [link](https://nextshoper.vercel.app/) to live demo. It is also connected to firebase. This is not finished I plan on going back to this project soon.
+- [Simple e-commerce with Next.js](https://github.com/MatRising/nextshoper) here is [link](https://nextshoper.vercel.app/) to live demo. It is also connected to firebase.
 
 
